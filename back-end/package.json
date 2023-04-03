@@ -1,0 +1,19 @@
+{
+  "name": "poke-back",
+  "version": "1.0.0",
+  "description": "back-end services for pokesite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "fullstack",
+    "express",
+    "nodejs",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Miguel Inácio",
+  "license": "ISC"
+}
